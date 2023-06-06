@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1639483392 source:c:\users\nicol\documents\universidad\segundo a—o\estructuras de datos\proyecto final\main.cpp
+	<iostream>
+	<ctime>
+	<sstream>
+	<math.h>
+	<iomanip>
+	"definiciones.h"
+	"metodos.cpp"
+
+1639477700 c:\users\nicol\documents\universidad\segundo a—o\estructuras de datos\proyecto final\definiciones.h
+
+1639477701 c:\users\nicol\documents\universidad\segundo a—o\estructuras de datos\proyecto final\metodos.cpp
+
+1638961356 source:c:\users\nicol\documents\universidad\segundo a—o\proyecto final\main.cpp
+	<iostream>
+	<ctime>
+	<sstream>
+	"definiciones.h"
+	"metodos.cpp"
+
+1639050226 c:\users\nicol\documents\universidad\segundo a—o\proyecto final\definiciones.h
+
+1639051132 c:\users\nicol\documents\universidad\segundo a—o\proyecto final\metodos.cpp
+
